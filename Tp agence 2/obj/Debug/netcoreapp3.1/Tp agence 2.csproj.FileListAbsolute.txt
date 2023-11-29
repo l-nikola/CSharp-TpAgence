@@ -1,0 +1,14 @@
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\bin\Debug\netcoreapp3.1\Tp agence 2.exe
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\bin\Debug\netcoreapp3.1\Tp agence 2.deps.json
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\bin\Debug\netcoreapp3.1\Tp agence 2.runtimeconfig.json
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\bin\Debug\netcoreapp3.1\Tp agence 2.runtimeconfig.dev.json
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\bin\Debug\netcoreapp3.1\Tp agence 2.dll
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\bin\Debug\netcoreapp3.1\Tp agence 2.pdb
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\obj\Debug\netcoreapp3.1\Tp agence 2.csproj.AssemblyReference.cache
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\obj\Debug\netcoreapp3.1\Tp agence 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\obj\Debug\netcoreapp3.1\Tp agence 2.AssemblyInfoInputs.cache
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\obj\Debug\netcoreapp3.1\Tp agence 2.AssemblyInfo.cs
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\obj\Debug\netcoreapp3.1\Tp agence 2.csproj.CoreCompileInputs.cache
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\obj\Debug\netcoreapp3.1\Tp agence 2.dll
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\obj\Debug\netcoreapp3.1\Tp agence 2.pdb
+C:\Users\fouka\source\repos\Tp agence 2\Tp agence 2\obj\Debug\netcoreapp3.1\Tp agence 2.genruntimeconfig.cache
